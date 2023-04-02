@@ -1,8 +1,10 @@
 # cousin_website
-<<<<<<< HEAD
-
-
-Hi guys, it's meeee :) -aniters
+<<<<<<< Hs
 =======
 this is Dan's commit!!
->>>>>>> 6ee7c6dc907daeae701ac17de2e64a86bef8185c
+<<<<<<< HEAD
+=======
+this is katy's commit! testing not using git commit -a
+>>>>>>> 4d5fdf1fc43c3c15d5f4ff7367094c458880f3d7
+
+hi guys, this is aniters :)
